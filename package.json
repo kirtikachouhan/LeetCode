@@ -1,0 +1,23 @@
+{
+  "name": "masterYourDatastructureInJs",
+  "version": "1.0.0",
+  "description": "Datastructure Interview preparation in javascript language",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirtikachouhan/LeetCode.git"
+  },
+  "author": "Kirtika Chouhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirtikachouhan/LeetCode/issues"
+  },
+  "homepage": "https://github.com/kirtikachouhan/LeetCode#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
