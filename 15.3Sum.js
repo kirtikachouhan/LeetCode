@@ -16,8 +16,7 @@ var threeSum = function(nums) {
         let result = [];
         for (let i = 0; i < nums.length; i++) {
             let left = i + 1,
-                right = nums.length - 1,
-                temp_obj;
+                right = nums.length - 1;
             if (i > 0 && nums[i] === nums[i - 1]) {
                 continue;
             }
